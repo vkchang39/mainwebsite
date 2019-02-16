@@ -1,0 +1,15 @@
+.fontBold{
+    font-weight: bold;
+}
+.myHeader{
+    padding: 0;
+    position: absolute;
+    top: -0px;
+    
+}
+.myFooter{
+    margin-top: 23px;
+}
+#exampleInputEmail1{
+    border: 1px solid black;
+}
